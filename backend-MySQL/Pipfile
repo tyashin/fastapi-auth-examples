@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "0.66.0"
+uvicorn = {extras = ["standard"], version = "0.14.0"}
+fastapi-users = {extras = ["sqlalchemy"], version = "v6.1.1"}
+databases = {extras = ["mysql"], version = "0.4.3"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
