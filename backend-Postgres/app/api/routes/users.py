@@ -1,4 +1,4 @@
-from app.database.initialise import database, user_db
+from app.database.initialise import user_db
 from app.schemas.users import User, UserCreate, UserDB, UserUpdate
 from app.services.authentication import (auth_backends, cookie_authentication,
                                          jwt_authentication)

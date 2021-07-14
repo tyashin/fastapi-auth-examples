@@ -1,4 +1,4 @@
-- cd backend-Postgres
+- cd backend-MongoDB
 - pipenv shell
 - pipenv install
 - create MongoDB database
