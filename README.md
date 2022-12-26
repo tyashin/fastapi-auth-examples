@@ -1,3 +1,3 @@
-### [FastAPI](https://fastapi.tiangolo.com/) backend + [Quasar](https://quasar.dev/) frontend examples of registration and authentication for various DBs.
+### [FastAPI](https://fastapi.tiangolo.com/) backend examples of registration and authentication for various DBs.
 
-WIP
+Obsolete, newer version of API available
